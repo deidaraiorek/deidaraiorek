@@ -6,8 +6,8 @@
 
 **Dang Pham** · deidaraiorek
 
-![Meta](https://img.shields.io/badge/SWE_Intern_@_Meta-0866FF?style=flat-square&logo=meta&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/SWE_Intern_@_ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=black)
+![Meta](https://img.shields.io/badge/SWE_Intern_@_Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/SWE_Intern_@_ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
 
 `python` · `go` · `c++`
 
