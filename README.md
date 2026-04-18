@@ -2,7 +2,7 @@
 
 ## hey, i'm dang 👋
 
-prev SWE Intern @ <img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/meta.svg" height="16"/> &nbsp;&nbsp;&nbsp; prev SWE Intern @ <img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/sn.png" height="16"/>
+prev SWE Intern @ <img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/meta.svg" height="16" width="60"/> &nbsp;&nbsp;&nbsp; prev SWE Intern @ <img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/sn.png" height="16" width="60"/>
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
