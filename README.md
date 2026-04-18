@@ -75,8 +75,3 @@ full search engine from scratch — crawler, indexer, embeddings. built it just 
 
 </div>
 
----
-
-<p align="center">
-<a href="mailto:danghuuphamusf@gmail.com"><img src="https://img.shields.io/badge/danghuuphamusf%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=ff6b35"/></a>
-</p>
