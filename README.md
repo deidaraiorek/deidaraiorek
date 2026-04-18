@@ -2,10 +2,11 @@
 
 ## hey, i'm dang 👋
 
-![Meta](https://img.shields.io/badge/-SWE%20Intern%20%40%20Meta-000?&logo=meta&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/-SWE%20Intern%20%40%20ServiceNow-000?logoColor=white)
+prev ![Meta](https://img.shields.io/badge/-Meta-0866FF?&logo=meta&logoColor=white) SWE Intern &nbsp;·&nbsp; prev ![ServiceNow](https://img.shields.io/badge/-ServiceNow-62D84E?logoColor=white) SWE Intern
 
-`python` · `go` · `c++`
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
+[![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)](https://isocpp.org)
 
 <br clear="right"/>
 
