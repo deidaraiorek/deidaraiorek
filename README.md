@@ -1,6 +1,6 @@
 <img src="https://media1.tenor.com/m/NXo3kf_8C6EAAAAd/naruto-running.gif" align="right" width="200" />
 
-## hey, i'm dang 👋
+hey, i'm dang 👋
 
 ![](https://img.shields.io/badge/Meta-SWE_Intern-0866FF?style=flat-square&logo=meta&logoColor=white)
 ![](https://img.shields.io/badge/ServiceNow-SWE_Intern-62D84E?style=flat-square&logoColor=white)
