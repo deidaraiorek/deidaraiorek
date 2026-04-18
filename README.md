@@ -4,23 +4,16 @@
 
 <img src="https://media1.tenor.com/m/NXo3kf_8C6EAAAAd/naruto-running.gif" align="right" width="180" />
 
-```sh
-dang@leaf:~$ whoami
-```
-
-```yaml
-name: Dang Pham
-alias: deidaraiorek
-village: hidden leaf (cs undergrad)
-rank: chunin → aiming for jonin
-languages: python · go · c++
-currently: building things that probably break at 3am
-watching: naruto shippuden (rerun #3)
-himym: have you met dang?
-```
+**Dang Pham** · deidaraiorek
 
 ![Meta](https://img.shields.io/badge/SWE_Intern_@_Meta-0866FF?style=flat-square&logo=meta&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/SWE_Intern_@_ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=black)
+
+`python` · `go` · `c++`
+
+cs undergrad · hidden leaf · chunin → aiming for jonin
+currently building things that probably break at 3am
+watching naruto shippuden for the 3rd time · have you met dang?
 
 <br clear="right"/>
 
