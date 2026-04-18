@@ -8,7 +8,8 @@
 `python` · `go` · `c++`
 
 <br clear="right"/>
-### projects
+
+## projects
 
 <table>
 <tr>
