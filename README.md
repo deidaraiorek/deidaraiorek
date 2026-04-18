@@ -14,13 +14,13 @@ alias: deidaraiorek
 village: hidden leaf (cs undergrad)
 rank: chunin → aiming for jonin
 languages: python · go · c++
-experience:
-  - SWE Intern @ Meta
-  - SWE Intern @ ServiceNow
 currently: building things that probably break at 3am
 watching: naruto shippuden (rerun #3)
 himym: have you met dang?
 ```
+
+![Meta](https://img.shields.io/badge/SWE_Intern_@_Meta-0866FF?style=flat-square&logo=meta&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/SWE_Intern_@_ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=black)
 
 <br clear="right"/>
 
