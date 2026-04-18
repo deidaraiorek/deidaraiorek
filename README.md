@@ -2,7 +2,7 @@
 
 ## hey, i'm dang 👋
 
-prev SWE Intern <a href="https://www.meta.com"><img src="https://img.shields.io/badge/-Meta-0866FF?style=flat-square&logo=meta&logoColor=white"/></a> &nbsp;|&nbsp; <a href="https://www.servicenow.com"><img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/sn.png" height="16"/></a>
+prev SWE Intern @ <img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/meta.svg" height="16"/> &nbsp;&nbsp;&nbsp; prev SWE Intern @ <img src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/main/sn.png" height="16"/>
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
