@@ -3,7 +3,7 @@
 ## hey, i'm dang 👋
 
 ![Meta](https://img.shields.io/badge/-SWE%20Intern%20%40%20Meta-000?&logo=meta&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/-SWE%20Intern%20%40%20ServiceNow-000?&logoColor=white)
+<img src="sn.png" height="20"/> SWE Intern @ ServiceNow
 
 `python` · `go` · `c++`
 
