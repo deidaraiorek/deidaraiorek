@@ -7,9 +7,6 @@
 
 `python` · `go` · `c++`
 
-cs undergrad · hidden leaf · chunin → jonin
-building things at night · shippuden rerun #3 · have you met dang?
-
 <br clear="right"/>
 
 ---
