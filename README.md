@@ -9,17 +9,17 @@ dang@leaf:~$ whoami
 ```
 
 ```yaml
-name       : Dang Pham
-alias      : deidaraiorek
-village    : hidden leaf (cs undergrad)
-rank       : chunin → aiming for jonin
-languages  : python · go · c++
-experience :
+name: Dang Pham
+alias: deidaraiorek
+village: hidden leaf (cs undergrad)
+rank: chunin → aiming for jonin
+languages: python · go · c++
+experience:
   - SWE Intern @ Meta
   - SWE Intern @ ServiceNow
-currently  : building things that probably break at 3am
-watching   : naruto shippuden (rerun #3)
-himym      : have you met dang?
+currently: building things that probably break at 3am
+watching: naruto shippuden (rerun #3)
+himym: have you met dang?
 ```
 
 <br clear="right"/>
