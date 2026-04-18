@@ -8,8 +8,6 @@
 `python` · `go` · `c++`
 
 <br clear="right"/>
-
-
 ### projects
 
 <table>
@@ -30,12 +28,3 @@
 </td>
 </tr>
 </table>
-
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/deidaraiorek/deidaraiorek/output/github-snake-dark.svg" />
-</picture>
-</div>
