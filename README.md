@@ -9,7 +9,6 @@
 
 <br clear="right"/>
 
----
 
 ### projects
 
@@ -32,7 +31,6 @@
 </tr>
 </table>
 
----
 
 <div align="center">
 <picture>
