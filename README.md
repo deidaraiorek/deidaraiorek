@@ -13,11 +13,6 @@
 
 ### projects
 
-[![](https://img.shields.io/badge/-⚔️%20battleline-000)](https://github.com/deidaraiorek/battleline)
-[![](https://img.shields.io/badge/-📸%20photogen-000)](https://github.com/deidaraiorek/photogen)
-[![](https://img.shields.io/badge/-🤖%20openjob-000)](https://github.com/deidaraiorek/openjob)
-[![](https://img.shields.io/badge/-🔍%20deisearch-000)](https://github.com/deidaraiorek/deisearch)
-
 <table>
 <tr>
 <td width="50%" valign="top">
