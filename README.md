@@ -14,14 +14,14 @@ prev SWE Intern <a href="https://www.meta.com"><img src="https://img.shields.io/
 <tr>
 <td width="50%" valign="top">
 
-**[battleline](https://github.com/deidaraiorek/battleline)** — real-time 2-player card game. websockets, 9 flags.
+**[battleline](https://github.com/deidaraiorek/battleline)** - real-time 2-player card game
 
 <img src="https://raw.githubusercontent.com/deidaraiorek/battleline/master/assets/game.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-**[photogen](https://github.com/deidaraiorek/photogen)** — free passport photo generator. ai bg removal, 10+ countries.
+**[photogen](https://github.com/deidaraiorek/photogen)** - free passport photo generator
 
 <img src="https://raw.githubusercontent.com/deidaraiorek/photogen/main/frontend/public/logo.jpg" width="100%"/>
 
