@@ -2,9 +2,7 @@
 
 hey, i'm dang 👋
 
-building software, doing research, and helping students learn at USF.
-
-currently:
+prev:
 - `Meta` - SWE Intern
 - `ServiceNow` - SWE Intern
 - `Moffitt Cancer Center` - Research Trainee
