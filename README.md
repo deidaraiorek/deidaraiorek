@@ -9,7 +9,7 @@ prev:
 <div><img src="./usf_small.png" width="16" height="16" alt="USF logo" /> USF - Teaching Assistant</div>
 <div><img src="./usf_small.png" width="16" height="16" alt="USF Bellini College logo" /> USF Bellini College - Student Developer</div>
 
-
+</>
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
