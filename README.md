@@ -4,6 +4,11 @@ hey, i'm dang 👋
 
 ![](https://img.shields.io/badge/Meta-SWE_Intern-0866FF?style=flat-square&logo=meta&logoColor=white)
 ![](https://img.shields.io/badge/ServiceNow-SWE_Intern-62D84E?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Moffitt_Cancer_Center-Research_Trainee-0F766E?style=flat-square)
+![](https://img.shields.io/badge/USF-Teaching_Assistant-1666B0?style=flat-square)
+![](https://img.shields.io/badge/USF_Bellini_College-Student_Developer-7C3AED?style=flat-square)
+
+building software, doing research, and helping students learn at USF.
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
