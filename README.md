@@ -3,13 +3,13 @@
 hey, i'm dang 👋
 
 prev:
-<p>
-  <img src="https://www.google.com/s2/favicons?domain=about.meta.com&sz=64" width="16" height="16" alt="Meta logo" /> Meta - SWE Intern<br/>
-  <img src="https://www.google.com/s2/favicons?domain=servicenow.com&sz=64" width="16" height="16" alt="ServiceNow logo" /> ServiceNow - SWE Intern<br/>
-  <img src="https://www.google.com/s2/favicons?domain=moffitt.org&sz=64" width="16" height="16" alt="Moffitt logo" /> Moffitt Cancer Center - Research Trainee<br/>
-  <img src="https://www.google.com/s2/favicons?domain=usf.edu&sz=64" width="16" height="16" alt="USF logo" /> USF - Teaching Assistant<br/>
-  <img src="https://www.google.com/s2/favicons?domain=usf.edu&sz=64" width="16" height="16" alt="USF Bellini College logo" /> USF Bellini College - Student Developer
-</p>
+<ul>
+  <li><img src="https://www.google.com/s2/favicons?domain=about.meta.com&sz=64" width="16" height="16" alt="Meta logo" /> Meta - SWE Intern</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=servicenow.com&sz=64" width="16" height="16" alt="ServiceNow logo" /> ServiceNow - SWE Intern</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=moffitt.org&sz=64" width="16" height="16" alt="Moffitt logo" /> Moffitt Cancer Center - Research Trainee</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=usf.edu&sz=64" width="16" height="16" alt="USF logo" /> USF - Teaching Assistant</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=usf.edu&sz=64" width="16" height="16" alt="USF Bellini College logo" /> USF Bellini College - Student Developer</li>
+</ul>
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
