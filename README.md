@@ -24,7 +24,7 @@ hey, i'm dang 👋
 
 **[photogen](https://github.com/deidaraiorek/photogen)** - free passport photo generator
 
-<img src="https://raw.githubusercontent.com/deidaraiorek/photogen/main/frontend/public/logo.jpg" width="100%"/>
+<img src="./photogen.png" width="100%"/>
 
 </td>
 </tr>
