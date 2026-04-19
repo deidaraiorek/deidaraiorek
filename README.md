@@ -17,7 +17,7 @@ hey, i'm dang 👋
 
 **[battleline](https://github.com/deidaraiorek/battleline)** - real-time 2-player card game
 
-<img src="https://raw.githubusercontent.com/deidaraiorek/battleline/master/assets/game.png" width="100%"/>
+<img src="./battleline.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
