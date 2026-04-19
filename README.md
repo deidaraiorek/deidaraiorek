@@ -3,13 +3,11 @@
 hey, i'm dang 👋
 
 prev:
-<ul>
-  <li><img src="https://www.google.com/s2/favicons?domain=about.meta.com&sz=64" width="16" height="16" alt="Meta logo" /> Meta - SWE Intern</li>
-  <li><img src="https://www.google.com/s2/favicons?domain=servicenow.com&sz=64" width="16" height="16" alt="ServiceNow logo" /> ServiceNow - SWE Intern</li>
-  <li><img src="https://www.google.com/s2/favicons?domain=moffitt.org&sz=64" width="16" height="16" alt="Moffitt logo" /> Moffitt Cancer Center - Research Trainee</li>
-  <li><img src="https://www.google.com/s2/favicons?domain=usf.edu&sz=64" width="16" height="16" alt="USF logo" /> USF - Teaching Assistant</li>
-  <li><img src="https://www.google.com/s2/favicons?domain=usf.edu&sz=64" width="16" height="16" alt="USF Bellini College logo" /> USF Bellini College - Student Developer</li>
-</ul>
+<div><img src="./meta_icon.png" width="16" height="16" alt="Meta logo" /> Meta - SWE Intern</div>
+<div><img src="./sn_small.png" height="16" alt="ServiceNow logo" /> ServiceNow - SWE Intern</div>
+<div><img src="./moffitt_small.png" width="16" height="16" alt="Moffitt logo" /> Moffitt Cancer Center - Research Trainee</div>
+<div><img src="./usf_small.png" width="16" height="16" alt="USF logo" /> USF - Teaching Assistant</div>
+<div><img src="./usf_small.png" width="16" height="16" alt="USF Bellini College logo" /> USF Bellini College - Student Developer</div>
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://python.org)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://go.dev)
