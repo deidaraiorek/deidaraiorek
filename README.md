@@ -41,8 +41,6 @@ prev:
 <img src="./iber.png" width="100%"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[productify](https://github.com/viettech-group3/productify)** - collaborative productivity app
@@ -50,7 +48,6 @@ prev:
 <img src="https://github.com/viettech-group3/productify/assets/116319999/c7f578e4-a0cd-4644-b20e-815ddac5195e" width="100%"/>
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 <tr>
 <td width="50%" valign="top">
