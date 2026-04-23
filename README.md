@@ -57,6 +57,12 @@ prev:
 <img src="./mimimeomeo.png" width="100%"/>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+**[deisearch](https://github.com/deidaraiorek/deisearch)** - crawl, index, and query web pages with keyword and semantic search
+
+<img src="./deisearch.png" width="100%"/>
+
+</td>
 </tr>
 </table>
