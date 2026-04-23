@@ -54,14 +54,14 @@ prev:
 
 **[mimimeomeo](https://github.com/deidaraiorek/mimimeomeo)** - love notes app
 
-<img src="./mimimeomeo.png" width="100%"/>
+<img src="./mimimeomeo.png" width="100%" height="220" style="object-fit: cover;"/>
 
 </td>
 <td width="50%" valign="top">
 
 **[deisearch](https://github.com/deidaraiorek/deisearch)** - crawl, index, and query web pages with keyword and semantic search
 
-<img src="./deisearch.png" width="100%"/>
+<img src="./deisearch.png" width="100%" height="220" style="object-fit: cover;"/>
 
 </td>
 </tr>
